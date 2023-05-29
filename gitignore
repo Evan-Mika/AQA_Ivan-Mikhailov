@@ -28,6 +28,7 @@ classes/*
 /out/
 .DS_Store
 src/.DS_Store
+.out
 
 ### NetBeans ###
 /nbproject/private/
