@@ -28,10 +28,10 @@ public class Main {
             if (x > 9 && x < 100) {
                 int ed = x % 10;
                 int des = x / 10;
-                System.out.print(ed + " " + des);
+                System.out.print(ed + " "+ des);
             }
 
-            // task 4
+         //    task 4
 
             Scanner userInput = new Scanner(System.in);
             int x = userInput.nextInt();
@@ -45,7 +45,7 @@ public class Main {
             }
 
 
-            // task 5
+         // task 5
 
             Scanner scanner = new Scanner(System.in);
             int x = scanner.nextInt();
