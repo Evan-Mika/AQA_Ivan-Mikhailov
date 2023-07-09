@@ -19,46 +19,10 @@ public static int calc(int num1, int num2, char operation) {
         case '-' ->result = num1 - num2;
         case '*' ->result = num1 * num2;
         case '/' ->result = num1 / num2;
-
-
-
-
-
-
-
-
-
     }
-
-
-
-
-
-
     return result;
 
-
-
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
 

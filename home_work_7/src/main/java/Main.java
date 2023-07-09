@@ -7,10 +7,5 @@ public class Main {
 
         int result = CalcHandler.calc(number1, number2, mathOperator);
         System.out.println("Результат вычеслений: " + result);
-
-
-
-
-
     }
 }
